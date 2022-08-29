@@ -91,10 +91,10 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`id`, `full_name`, `number`, `email`, `gsm_number`) VALUES
-(1, 'Enes KOCABAS', 12658, 'enes.kcbs2@gmail.com', '05532208722'),
-(10, 'Best Student', 3334, 'troya_asas@hotmail.com', '5655565665'),
+(1, 'Enes KOCABAS', 12658, 'enes.example@gmail.com', '0553210871'),
+(10, 'Best Student', 3334, 'troya_example@hotmail.com', '5655565665'),
 (11, 'Test Student', 1345566, '343243234', '4324324324'),
-(12, 'Nurdan Ok', 332, 'enes.kcbs32@gmail.com', '5655565665');
+(12, 'Nurdan Ok', 332, 'ekoexample@gmail.com', '5655565665');
 
 -- --------------------------------------------------------
 
